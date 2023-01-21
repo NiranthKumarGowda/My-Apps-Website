@@ -1,0 +1,18 @@
+body{
+    text-align:center;
+}
+#App{
+   background-color: aqua;
+   padding:10px;
+}
+#Games{
+ background-color: aquamarine ; 
+ padding:10px;
+}
+#Chatbot{
+  background-color: beige ; 
+  padding:10px;
+}
+#MyCarousel{
+   text-align: center;
+}
